@@ -1,4 +1,4 @@
 # CS250-F26-Group03
 ### Group #\: 3
-### Members: Nathan Cubias, Dane yaddgo, Maksim, Austin
+### Members: Nathan Cubias, Dane Yaddgo, Maksim, Austin
 ### Selected Software System: TBD
