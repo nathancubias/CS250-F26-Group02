@@ -6,4 +6,5 @@
 
 ### Assignment 2
 [(Click Here)](Assignment2)
+
 *Note: Maksim + Dane did not commit but did their part in completing the assignment.*
