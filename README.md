@@ -1,4 +1,5 @@
 # CS250-F26-Group03
-### Group #\: 3
+### Group #: 3
 ### Members: Nathan Cubias, Dane Yaddgo, Maksim Makar, Austin Thomas
-### Selected Software System: Casino Blackjack Cheater Detection System
+### Selected Software System:
+[Casino Blackjack Cheater Detection System](Casino%20Blackjack%20Cheater%20Detection%20System.pdf)
