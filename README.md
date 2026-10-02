@@ -3,3 +3,6 @@
 ### Members: Nathan Cubias, Dane Yaddgo, Maksim Makar, Austin Thomas
 ### Selected Software System:
 [Casino Blackjack Cheater Detection System](Casino%20Blackjack%20Cheater%20Detection%20System.pdf)
+
+### Assignment 2
+[(Click Here)](Assignment2)
